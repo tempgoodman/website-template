@@ -9,7 +9,6 @@ NextUI
 Auth.js 5 beta
 next-intl
 Prisma
-PostgreSQL
 Tailwindcss
 
 ## How to Use
